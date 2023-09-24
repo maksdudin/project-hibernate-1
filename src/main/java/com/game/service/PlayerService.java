@@ -1,9 +1,9 @@
 package com.game.service;
-
 import com.game.entity.Player;
-import com.game.entity.Profession;
 import com.game.entity.Race;
+import com.game.entity.Profession;
 import com.game.repository.IPlayerRepository;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
